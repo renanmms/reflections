@@ -1,0 +1,5 @@
+Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+Através do comando diff é possível ver as diferenças entre arquivos de versões diferentes e analisar onde está o erro.
+
+Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+Ao ter acesso ao histórico do seu arquivo é possível desfazer erros cometidos, que normalmente nos desenvolvedores ou programadores cometemos, através do controle de versionamento.
