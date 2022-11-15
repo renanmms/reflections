@@ -1,0 +1,5 @@
+What would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You may want to create a different branch, when there's more than one person working in the project and you want to add a new feature in the project, not interfering in the production code in the master branch.
+
+You may want to work on master branch if only you are working in the project, so you can keep track of your own changes, and come backif you made a mistake.
