@@ -1,0 +1,13 @@
+Why would you want to use git cherry-pick command?
+
+- With git cherry-pick you can get the changes you need from a specific commit this is handy when you need you're working on a new feature from branch A and needs to get some of the work from branch B. In this situation you could easily merge B into A, but suppose you don't want all the new commits from B and needs the most recent feature in branch A you do:
+
+git cherry-pick B
+
+- The command above picks up last commit made in branch B, you can also take older commits using:
+
+git cherry-pick B~1 B~2 B~3
+
+Why would you want to use git rebase command?
+
+- You do this command when you want to get the commits from another base tip
