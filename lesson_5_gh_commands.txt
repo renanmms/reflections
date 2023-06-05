@@ -1,0 +1,3 @@
+Why would you want to use the gh cli?
+
+- The gh cli is used to manage your repositores, issues and pull request from your Github all this though your terminal.
